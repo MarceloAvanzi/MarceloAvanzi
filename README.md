@@ -2,9 +2,10 @@
 
 - 👀 **About me**: Control and Automation Engineer, Full Stack Developer at @ExxonMobil Brazil, just a normal human being who loves to automate processes and make things easier for the other human beings
 
-- 🌱 **Learnings and Skills**: I’m currently learning Docker and Kubernetes, but I'm always improving myself in every other languages or frameworks I work everyday with, such as:
-  -  Vue.js and React.js (as a front-end)
+- 🌱 **Learnings and Skills**: I’m currently studying Docker and Kubernetes, and developing my personal projects with Nodejs (which I love it) and React (a bit less but it has a place in my heart), I'm always searching about the Nodejs and other Cloud stuff for example, to make my projects better and apply it all at work, also always improving myself in every other languages or frameworks I work everyday with, such as:
+  -  React.js
   -  Node.js as backend (This is the one I have the highest skills)
+  -  Vue.js
   -  Sequelize ORM to work with nodejs and connect to Azure Server (MS SQL database)
   -  Mongoose ODM to work with nodejs and connect to mongoDB (NoSQL database)
   -  Azure and its tools such as App Registration for API authentication inside a project, Web App to host apps, Server to manage databases in the cloud, App insight to monitor and others.
@@ -13,7 +14,7 @@
   -  Powershell (Automated maintenance fixes inside Windows, Device Information gathering through ServiceNow API, Microsoft Graph API and others, and SQL Server connections)
   -  SQL Server management (jobs, views, queries, etc)
  
-- 💞 **Collaboration**: I want to improve my knowledge around the Cloud environment and to make my projects better by using it. Also had the oportunity to work with Python's Machine Learning (ARIMA, SARIMAX, Random Forest and LightGBM) and the Data Science side in my final paper at college.
+- 💞 **Collaboration**: Had the oportunity to work with Python's Machine Learning and Artifitial Inteligence (ARIMA, SARIMAX, Random Forest and LightGBM) and the Data Science side in my final paper at college.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
