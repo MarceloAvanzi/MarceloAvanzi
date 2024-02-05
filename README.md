@@ -1,15 +1,20 @@
 - 👋 **Whoami**: Hey there folks, my name is Marcelo Avanzi, born in 98' and I have dual citizenship (Brazilian and Portuguese)
 
-- 👀 **About me**: Control and Automation Engineer, Full Stack Developer at @ExxonMobil Brazil, just a normal human being who loves to automate processes and make things easier for the other human beings
+- 👀 **About me**: Control and Automation Engineer, Nodejs Backend Software Engineer at @Atomos Brazil, just a normal human being who loves to automate processes and make things easier for the other human beings
 
-- 🌱 **Learnings and Skills**: I’m currently studying Docker and Kubernetes, developing my personal projects with Nodejs (which I love it) and React (a bit less but it has a place in my heart), I'm always searching about the Nodejs and other Cloud stuff for example, making my projects better and applying it all at work, also always improving myself in every other languages or frameworks I work everyday with, such as:
-  -  React.js
-  -  Node.js as backend (This is the one I have the highest skills)
-  -  Vue.js
+- 🌱 **Learnings and Skills**: I’m currently developing my personal projects with Nodejs (which I love it) and React (a bit less but it has a place in my heart), with technologies such as queues, telegram integration, firebase. And I'm always searching about the Nodejs and other Cloud stuff for example, making my projects better and applying it all at work, also always improving myself in every other languages or frameworks I work everyday with, such as:
+  -  Nodejs (Expressjs, Nestjs, Adonisjs) as backend
+  -  Observers pattern
+  -  Multi-tenancy Docker Architecture
+  -  Server-Sent Events (SSE)
+  -  MS SQL, PostgreSQL, mongoDB, firebase, MySQL
+  -  Typeorm ORM
+  -  Prisma
   -  Sequelize ORM to work with nodejs and connect to Azure Server (MS SQL database)
   -  Mongoose ODM to work with nodejs and connect to mongoDB (NoSQL database)
   -  Azure and its tools such as App Registration for API authentication inside a project, Web App to host apps, Server to manage databases in the cloud, App insight to monitor and others.
   -  Python (as a back-end using flask and MS SQL Server connections)
+  -  React.js
   -  C# .NET platform (for Software Development)
   -  Powershell (Automated maintenance fixes inside Windows, Device Information gathering through ServiceNow API, Microsoft Graph API and others, and SQL Server connections)
   -  SQL Server management (jobs, views, queries, etc)
