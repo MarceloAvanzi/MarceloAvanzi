@@ -1,4 +1,4 @@
-- 👋 **Whoami**: Hey there folks, my name is Marcelo Avanzi and I have dual citizenship (Brazilian and Portuguese)
+- 👋 **Whoami**: Hey there folks, my name is Marcelo Avanzi and I have dual citizenship (Brazilian and Portuguese) 
 
 - 👀 **About me**: Control and Automation Engineer, Nodejs Backend Software Engineer at @Atomos Brazil, just a normal human being who loves to automate processes and make things easier for the other human beings
 
