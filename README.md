@@ -46,26 +46,30 @@ Besides professional projects, I also develop my own SaaS products and constantl
 * AdonisJS
 * Python (Flask)
 * C# /.NET
+* Java Spring Boot
 
 ### Frontend
 
 * React.js
 * Next.js
-* Material UI (MUI)
+* with TailwindCSS
+* with Material UI (MUI)
 
-### Databases
+### Databases & Cache
 
 * PostgreSQL
 * MySQL
 * MS SQL Server
 * MongoDB
 * Firebase
+* Redis
 
 ### ORM / ODM
 
 * Prisma
 * TypeORM
 * Sequelize
+* Knex Query Builder
 * Mongoose
 
 ### Cloud & DevOps
@@ -76,19 +80,18 @@ Besides professional projects, I also develop my own SaaS products and constantl
 * Azure
 * Azure DevOps
 * CI/CD Pipelines
-* Linux Server Management
 * Nginx
 * Dokploy
 
 ### Architecture & Patterns
 
-* Microservices
+* Microservices / BFFs
 * Clean Architecture
 * DDD
 * SOLID Principles
 * Observer Pattern
 * Event-Driven Architecture
-* Server-Sent Events (SSE)
+* Server-Sent Events (SSE) / WebSockets
 * REST APIs
 * JWT Authentication
 
@@ -98,7 +101,7 @@ Besides professional projects, I also develop my own SaaS products and constantl
 * Telegram Integrations
 * Marketplace APIs (Mercado Livre & Shopee)
 * Microsoft Graph API
-* ServiceNow API
+* BullMQ
 
 ### Monitoring & Data
 
@@ -109,7 +112,7 @@ Besides professional projects, I also develop my own SaaS products and constantl
 
 ### Data Science & AI
 
-Had the opportunity to work with Machine Learning and Artificial Intelligence during my final college project using:
+Had the opportunity to work with Machine Learning during my final college project using:
 
 * ARIMA
 * SARIMAX
@@ -148,7 +151,7 @@ Had the opportunity to work with Machine Learning and Artificial Intelligence du
 ## ⚡ Fun Facts
 
 * ☕ Coffee enthusiast
-* 🎮 Gamer & Twitch streamer
+* 🎮 Gamer
 * 📊 Obsessed with metrics and automation
 * 🚀 Always building side projects
 * 🐧 Linux enthusiast
