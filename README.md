@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm Marcelo Avanzi
 
 🇧🇷 🇵🇹 Brazilian & Portuguese citizen
+
 ⚙️ Control and Automation Engineer
+
 💻 Backend Software Engineer focused on scalable systems, automation and cloud architectures
 
 ---
