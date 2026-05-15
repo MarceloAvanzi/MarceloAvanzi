@@ -1,63 +1,180 @@
-- 👋 **Whoami**: Hey there folks, my name is Marcelo Avanzi and I have dual citizenship (Brazilian and Portuguese)    
+# 👋 Hey there, I'm Marcelo Avanzi
 
-- 👀 **About me**: Control and Automation Engineer, Nodejs Backend Software Engineer at @Atomos Brazil, just a normal human being who loves to automate processes and make things easier for the other human beings
+🇧🇷 🇵🇹 Brazilian & Portuguese citizen
+⚙️ Control and Automation Engineer
+💻 Backend Software Engineer focused on scalable systems, automation and cloud architectures
 
-- 🌱 **Learnings and Skills**: I’m currently developing my personal projects with Nodejs (which I love it) and React (a bit less but it has a place in my heart), with technologies such as queues, telegram integration, firebase. And I'm always searching about the Nodejs and other Cloud stuff for example, making my projects better and applying it all at work, also always improving myself in every other languages or frameworks I work everyday with, such as:
-  -  Nodejs (Expressjs, Nestjs, Adonisjs) as backend
-  -  Observers pattern
-  -  Multi-tenancy Docker Architecture
-  -  Server-Sent Events (SSE)
-  -  MS SQL, PostgreSQL, mongoDB, firebase, MySQL
-  -  Typeorm ORM
-  -  Prisma
-  -  Sequelize ORM to work with nodejs and connect to Azure Server (MS SQL database)
-  -  Mongoose ODM to work with nodejs and connect to mongoDB (NoSQL database)
-  -  Azure and its tools such as App Registration for API authentication inside a project, Web App to host apps, Server to manage databases in the cloud, App insight to monitor and others.
-  -  Python (as a back-end using flask and MS SQL Server connections)
-  -  React.js
-  -  C# .NET platform (for Software Development)
-  -  Powershell (Automated maintenance fixes inside Windows, Device Information gathering through ServiceNow API, Microsoft Graph API and others, and SQL Server connections)
-  -  SQL Server management (jobs, views, queries, etc)
- 
-- 💞 **Collaboration**: Had the oportunity to work with Python's Machine Learning and Artifitial Inteligence (ARIMA, SARIMAX, Random Forest and LightGBM) and the Data Science side in my final paper at college.
+---
+
+## 🚀 About Me
+
+I'm a Backend Software Engineer passionate about building scalable applications, automating processes, and creating solutions that make life easier for people.
+
+I currently work mainly with **Node.js**, designing and maintaining scalable backend systems, microservices architectures, integrations, cloud solutions and SaaS platforms.
+
+Besides professional projects, I also develop my own SaaS products and constantly explore new technologies related to:
+
+* Cloud Computing
+* Distributed Systems
+* Observability
+* Event-Driven Architectures
+* AI & Data Analysis
+* DevOps
+* High Performance APIs
+
+---
+
+## 🌱 Current Projects & Interests
+
+* 📊 Building my own SaaS analytics platform for marketplace sellers
+* ☁️ Improving cloud-native and containerized architectures
+* ⚡ Studying scalable event-driven systems and queues
+* 🤖 Exploring AI, Machine Learning and predictive analytics
+* 📈 Developing metrics and monitoring platforms
+* 🎥 Creating gaming/streaming content as a hobby
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Backend
+
+* Node.js
+* TypeScript
+* Express.js
+* NestJS
+* AdonisJS
+* Python (Flask)
+* C# /.NET
+
+### Frontend
+
+* React.js
+* Next.js
+* Material UI (MUI)
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MS SQL Server
+* MongoDB
+* Firebase
+
+### ORM / ODM
+
+* Prisma
+* TypeORM
+* Sequelize
+* Mongoose
+
+### Cloud & DevOps
+
+* Docker
+* Multi-tenancy Architectures
+* AWS
+* Azure
+* Azure DevOps
+* CI/CD Pipelines
+* Linux Server Management
+* Nginx
+* Dokploy
+
+### Architecture & Patterns
+
+* Microservices
+* Clean Architecture
+* DDD
+* SOLID Principles
+* Observer Pattern
+* Event-Driven Architecture
+* Server-Sent Events (SSE)
+* REST APIs
+* JWT Authentication
+
+### Messaging & Integrations
+
+* RabbitMQ
+* Telegram Integrations
+* Marketplace APIs (Mercado Livre & Shopee)
+* Microsoft Graph API
+* ServiceNow API
+
+### Monitoring & Data
+
+* Application Insights
+* New Relic
+* Metrics Platforms
+* Logging & Observability
+
+### Data Science & AI
+
+Had the opportunity to work with Machine Learning and Artificial Intelligence during my final college project using:
+
+* ARIMA
+* SARIMAX
+* Random Forest
+* LightGBM
+
+---
+
+## 💡 What I Like Building
+
+* SaaS Platforms
+* Automation Tools
+* High Performance APIs
+* Data & Metrics Dashboards
+* Cloud Integrations
+* Monitoring Systems
+* Marketplace Solutions
+* Developer Tools
+
+---
+
+## 📫 How to Reach Me
+
+<div>
+<a href="mailto:marceloavanzii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<a href="https://www.linkedin.com/in/marcelo-daniel-avanzi-68b05b134" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+* ☕ Coffee enthusiast
+* 🎮 Gamer & Twitch streamer
+* 📊 Obsessed with metrics and automation
+* 🚀 Always building side projects
+* 🐧 Linux enthusiast
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="mongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MSSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+
+  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-### How to reach me:
-
-<div>
-<a href = "mailto:marceloavanzii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcelo-daniel-avanzi-68b05b134" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<!---
-
-MarceloAvanzi/MarceloAvanzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
---->
-
-<!---
-### Contributions:
-
-<div>
-<a href="https://github.com/MarceloAvanzi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAvanzi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAvanzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
---->
-
