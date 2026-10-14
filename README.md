@@ -1,185 +1,129 @@
-# 👋 Hey there, I'm Marcelo Avanzi
+# Hey there, I'm Marcelo Avanzi 👋
 
-🇧🇷 🇵🇹 Brazilian & Portuguese citizen
+**Backend Software Engineer | Node.js & TypeScript | Cloud & Distributed Systems**
 
-⚙️ Control and Automation Engineer
+🇧🇷 Brazilian & 🇵🇹 Portuguese Citizen | 🌎 Open to International Opportunities
 
-💻 Backend Software Engineer focused on scalable systems, automation and cloud architectures
+I'm a software engineer with **7+ years of experience** building backend applications, APIs, microservices, and cloud-based solutions.
 
----
+My main expertise is in **Node.js and TypeScript**, with experience across distributed architectures, third-party integrations, database design, and production systems.
 
-## 🚀 About Me
-
-I'm a Backend Software Engineer passionate about building scalable applications, automating processes, and creating solutions that make life easier for people.
-
-I currently work mainly with **Node.js**, designing and maintaining scalable backend systems, microservices architectures, integrations, cloud solutions and SaaS platforms.
-
-Besides professional projects, I also develop my own SaaS products and constantly explore new technologies related to:
-
-* Cloud Computing
-* Distributed Systems
-* Observability
-* Event-Driven Architectures
-* AI & Data Analysis
-* DevOps
-* High Performance APIs
+I enjoy solving complex technical challenges, improving system reliability, and turning ideas into real products.
 
 ---
 
-## 🌱 Current Projects & Interests
+## 🚀 What I Do
 
-* 📊 Building my own SaaS analytics platform for marketplace sellers
-* ☁️ Improving cloud-native and containerized architectures
-* ⚡ Studying scalable event-driven systems and queues
-* 🤖 Exploring AI, Machine Learning and predictive analytics
-* 📈 Developing metrics and monitoring platforms
-* 🎥 Creating gaming/streaming content as a hobby
+- **Backend Engineering:** Design, develop, and maintain scalable APIs, microservices, and backend services.
+- **System Architecture:** Work with distributed systems, event-driven architectures, BFFs, and asynchronous processing.
+- **Cloud & DevOps:** Build and deploy containerized applications using cloud infrastructure, Docker, and CI/CD pipelines.
+- **Database Engineering:** Design data models, optimize queries, and work with relational and NoSQL databases.
+- **SaaS Development:** Build independent products, from backend architecture to deployment, integrations, and operations.
+- **Observability:** Troubleshoot production issues, monitor application performance, and improve system reliability.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### Backend
+### Backend & Languages
 
-* Node.js
-* TypeScript
-* Express.js
-* NestJS
-* AdonisJS
-* Python (Flask)
-* C# /.NET
-* Java Spring Boot
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks:** NestJS, Express.js, AdonisJS, Flask, Spring Boot, .NET
+
+### Databases & Data Access
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+
+**Additional:** Firebase, Prisma, TypeORM, Sequelize, Knex.js, Mongoose
+
+### Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Additional:** Azure DevOps, CI/CD, Dokploy, Containerization, Cloud Infrastructure
+
+### Architecture, Messaging & Observability
+
+- Microservices, BFFs, REST APIs
+- Event-Driven Architecture, RabbitMQ, BullMQ
+- WebSockets, Server-Sent Events (SSE)
+- Clean Architecture, DDD, SOLID
+- JWT Authentication, Multi-Tenant Systems
+- Application Insights, New Relic, Logging & Monitoring
+- Marketplace APIs, Microsoft Graph API, Telegram Integrations
 
 ### Frontend
 
-* React.js
-* Next.js
-* with TailwindCSS
-* with Material UI (MUI)
-
-### Databases & Cache
-
-* PostgreSQL
-* MySQL
-* MS SQL Server
-* MongoDB
-* Firebase
-* Redis
-
-### ORM / ODM
-
-* Prisma
-* TypeORM
-* Sequelize
-* Knex Query Builder
-* Mongoose
-
-### Cloud & DevOps
-
-* Docker
-* Multi-tenancy Architectures
-* AWS
-* Azure
-* Azure DevOps
-* CI/CD Pipelines
-* Nginx
-* Dokploy
-
-### Architecture & Patterns
-
-* Microservices / BFFs
-* Clean Architecture
-* DDD
-* SOLID Principles
-* Observer Pattern
-* Event-Driven Architecture
-* Server-Sent Events (SSE) / WebSockets
-* REST APIs
-* JWT Authentication
-
-### Messaging & Integrations
-
-* RabbitMQ
-* Telegram Integrations
-* Marketplace APIs (Mercado Livre & Shopee)
-* Microsoft Graph API
-* BullMQ
-
-### Monitoring & Data
-
-* Application Insights
-* New Relic
-* Metrics Platforms
-* Logging & Observability
-
-### Data Science & AI
-
-Had the opportunity to work with Machine Learning during my final college project using:
-
-* ARIMA
-* SARIMAX
-* Random Forest
-* LightGBM
+React.js, Next.js, Tailwind CSS, Material UI
 
 ---
 
-## 💡 What I Like Building
+## 💻 Independent Projects
 
-* SaaS Platforms
-* Automation Tools
-* High Performance APIs
-* Data & Metrics Dashboards
-* Cloud Integrations
-* Monitoring Systems
-* Marketplace Solutions
-* Developer Tools
+Outside my professional work, I enjoy building and maintaining my own software products, exploring everything from architecture and development to infrastructure and product design.
 
----
+### 📊 Amétrica — Marketplace Analytics SaaS
 
-## 📫 How to Reach Me
+An analytics platform designed to help marketplace sellers understand their businesses through centralized metrics and dashboards.
 
-<div>
-<a href="mailto:marceloavanzii@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+**Highlights:**
+- Integrations with Mercado Livre and Shopee APIs
+- Sales analytics, revenue tracking, and operational metrics
+- Automated data synchronization and background jobs
+- Authentication, subscription management, and cloud deployment
 
-<a href="https://www.linkedin.com/in/marcelo-daniel-avanzi-68b05b134" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-</div>
+**Stack:** Node.js, TypeScript, React, PostgreSQL, Docker
 
----
+### 🌙 Luna PDV — Sales & Inventory Management
 
-## ⚡ Fun Facts
+A management platform designed for businesses to organize sales, products, inventory, and operational data.
 
-* ☕ Coffee enthusiast
-* 🎮 Gamer
-* 📊 Obsessed with metrics and automation
-* 🚀 Always building side projects
-* 🐧 Linux enthusiast
+**Highlights:**
+- Product and inventory management
+- Sales history and reporting
+- Business metrics and dashboards
+- Full-stack SaaS development and deployment
 
 ---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+## 🔬 Engineering Interests
 
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+I'm continuously exploring technologies and engineering practices related to:
 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+- Distributed Systems & Scalability
+- Cloud-Native Architecture
+- Database Performance & Optimization
+- Event-Driven Systems & Message Queues
+- Observability & Production Reliability
+- AI Integration & Developer Productivity
 
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+I also have an academic background in **Control and Automation Engineering**, where I explored machine learning and time-series forecasting using ARIMA, SARIMAX, Random Forest, and LightGBM.
 
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+---
 
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+## 📫 Connect With Me
 
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-daniel-avanzi-68b05b134)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloavanzii@gmail.com)
 
-  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+---
 
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+### ⚡ Beyond Coding
 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+When I'm not working on software, you'll probably find me exploring new technologies, playing video games, creating content, or working on another side project.
 
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+*Always learning, building, and improving.*
